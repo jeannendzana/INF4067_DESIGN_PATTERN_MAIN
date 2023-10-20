@@ -9,7 +9,7 @@ package builder;
 		public void setpate(String pate) {this.pate= pate;}
 		public void setsauce(String sauce) {this.sauce= sauce;}
 		
-		public void setgarniture(String pate) {this.garniture= garniture;}
+		public void setgarniture(String garniture) {this.garniture= garniture;}
 		
 		public void print() {
 			System.out.println(this.toString());

@@ -1,4 +1,4 @@
-package builder1;
+package builder2;
 
 	public class Pizza {
 		
@@ -9,13 +9,12 @@ package builder1;
 		public void setpate(String pate) {this.pate= pate;}
 		public void setsauce(String sauce) {this.sauce= sauce;}
 		
-		public void setgarniture(String pate) {this.garniture= garniture;}
+		public void setgarniture(String garniture) {this.garniture= garniture;}
 		
 		public void print() {
 			System.out.println(this.toString());
 			System.out.println("Pate=" + pate+ "\nSauce="+sauce+ "\nGarniture="+garniture);
 		}
-
 
 	}
 

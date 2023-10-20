@@ -1,4 +1,4 @@
-package builder;
+package builder2;
 
 public class Client {
 
@@ -11,6 +11,9 @@ public class Client {
 	directeur.ConstruirepizzaReine()
 .print();
 
+	System.out.println("\n");
+	directeur.ConstruirepizzaDoux()
+.print();
 	}
 		
 

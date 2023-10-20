@@ -1,4 +1,4 @@
-package builder;
+package builder2;
 
 public class Directeur {
 	
@@ -12,6 +12,12 @@ public class Directeur {
 		Monteurpizza pizzaPiquante= new MonteurpizzaPiquante();
 		
 		return pizzaPiquante.getpizza();
+		
+	}
+	public Pizza ConstruirepizzaDoux() {
+		Monteurpizza pizzaDoux= new MonteurpizzaDoux();
+		
+		return pizzaDoux.getpizza();
 		
 	}
 }
