@@ -1,4 +1,4 @@
-Ce repos comporte 04 dossiers comportant chacun des sous-dossiers qui representent les projets d'implemantations de chaque type de patron de construction vue en cours et les modifications apportees aux emples du cours:
+Ce repository comporte 04 dossiers comportant chacun des sous-dossiers qui representent les projets d'implemantations de chaque type de patron de construction vue en cours et les modifications apportees aux emples du cours:
 Le dossier du patron ABSTRACT_FACTORY contient <abstract_factory> : qui est l'exemple du cours et <abstract_factory1> : la modification de l'exemple.
 
 Ce qui est de meme pour le dossier du patron FACTORY a la seule difference que ce dernier renferme deux sous dossiers qui sont des projets implementants chacun de maniere differente ce patron.
