@@ -11,11 +11,7 @@ public class client {
 		
 		produit = factory.getproduit(Factory.type_produitB);
 		produit.methode();
-		
-		produit = factory.getproduit(Factory.type_produitC);
-		produit.methode();
-		
-		produit = factory.getproduit(4);
+		produit = factory.getproduit(3);
 		produit.methode();
 
 	}
